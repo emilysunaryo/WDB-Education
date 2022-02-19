@@ -1,0 +1,163 @@
+
+.lux-entire{
+    width: 500px;
+    height: 300px;
+    outline: 2px solid black;
+}
+
+.lux-first-row{
+    height: 100px;
+    background-color: red;
+}
+.lux-second-row{
+    height: 100px;
+    background-color: white;
+}
+.lux-third-row{
+    height: 100px;
+    background-color: rgb(58, 169, 238);
+}
+.thai-entire-flag{
+    width: 500px;
+    height: 300px;
+    outline: 2px solid black;
+}
+
+.thai-first{
+    height: 50px;
+    background-color: red;
+}
+.thai-second{
+    height: 50px;
+    background-color: white;
+}
+.thai-third{
+    height: 100px;
+    background-color: navy;
+}
+
+.thai-fourth{
+    height: 50px;
+    background-color: white;
+}
+
+.thai-fifth{
+    height: 50px;
+    background-color: red;
+}
+
+.rom-entire-flag{
+    width: 500px;
+    height: 300px;
+    outline: 2px solid black;
+    display:flex;
+}
+
+.rom-first{
+    height: 300px;
+    width: 166px;
+    background-color: navy;
+}
+
+.rom-second{
+    height: 300px;
+    width: 166px;
+    background-color: rgb(220, 199, 38);
+    flex-basis: 166px;
+
+}
+.rom-third{
+    height: 300px;
+    width: 166px;
+    background-color: rgb(193, 34, 34);
+    flex-basis: 168px;
+}
+
+.mex-entire-flag{
+    width: 500px;
+    height: 300px;
+    outline: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+}
+
+.mex-first{ 
+  height: 300px;
+  background-color: rgb(8, 99, 8);
+  flex-basis: 150px; 
+}
+
+.mex-second{
+    height: 300px;
+    background-color: white;
+    flex-basis: 200px;
+    object-fit: fill;
+
+}
+
+.mex-third{
+    height: 300px;
+    background-color: red;
+    flex-basis: 150px;
+}
+.greece-entire{
+    width: 500px;
+    height: 300px;
+    outline: 2px solid black;
+}
+
+.first-row{
+    width: 300px;
+    height: 32px;
+    background-color: rgb(32, 79, 222);
+}
+.second-row{
+    width: 300px;
+    height: 32px;
+    background-color: white;
+}
+
+.third-row{ 
+    width: 300px;
+    height: 32px;
+    background-color:rgb(32, 79, 222);
+
+}
+
+.fourth-row{
+    width: 300px;
+    height: 32px;
+    background-color: white;
+}
+
+.fifth-row{
+    width: 300px;
+    height: 32px;
+    background-color:rgb(32, 79, 222);
+}
+
+.sixth-row{
+    width: 500px;
+    height: 32px;
+    background-color: white;
+
+}
+
+.seventh-row{
+    width: 500px;
+    height: 32px;
+    background-color:rgb(32, 79, 222);
+}
+
+.eighth-row{
+    width: 500px;
+    height: 32px;
+    background-color: white;
+}
+
+.ninth-row{
+    width: 500px;
+    height: 32px;
+    background-color:rgb(32, 79, 222);
+}
+
